@@ -1021,7 +1021,7 @@ Well, that might save me a bit of time on my captain's log.	嗯，那可能会�
 Great!	太好了！	dialogue	Adventurer Ada	Adventurer Ada
 I'd definitely be happy to have you on my crew.	我很欢迎你成为我的船员。	dialogue	Adventurer Ada	Adventurer Ada
 Sorry, but I'm not really in a place for you to join me right now.	抱歉，但我现在的情况不太适合让你加入我。	dialogue	Adventurer Ada	Adventurer Ada
-Hello [player name], what can I do for you?	你好，冒险者。有什么能帮你的？	dialogue	Adventurer Jon	Adventurer Jon
+Hello [player name], what can I do for you?	你好，[player name]。有什么能帮你的？	dialogue	Adventurer Jon	Adventurer Jon
 What are Adventure Paths?	什么是冒险路径？	dialogue	Adventurer Jon	Player
 A long time ago, I was a newbie just like you who didn't know what to do and I would be more than happy to pass on my experience.	很久以前，我也和你一样是个什么都不懂的新手，我很乐意把我的经验传授给你。	dialogue	Adventurer Jon	Adventurer Jon
 I've created some Adventure Paths which I recommend you to start off with. An Adventure Path is a list of tasks which you can complete in any order.	我建立了一些冒险路径，我建议你可以从这里开始。冒险路径是一系列任务列表，你可以按任意顺序完成。	dialogue	Adventurer Jon	Adventurer Jon
