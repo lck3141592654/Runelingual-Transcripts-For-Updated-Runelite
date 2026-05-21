@@ -17,6 +17,38 @@ The `Updater` directory contains five distinct programs, each designed to perfor
 
 For a deeper understanding of why these scripts are essential, please refer to the [README](./RuneLingual/transcript/README.md) in the top directory.
 
+
+```mermaid
+graph TD
+    A[Start]
+    B{What are you doing?}
+    C[Add language code to common_func.py]
+    D[Run main_generate_English_transcript.py --updateAll]
+    E{Non-Latin alphabet?}
+    F[Run update_char_images.py<br>generate character images + zip]
+    G[Run update_nonEn_transcripts.py<br>create translation template]
+    H{English DB up to date?}
+    I[Run main_generate_English_transcript.py --updateAll]
+    J[Skip]
+    K[Run update_nonEn_transcripts.py<br>merge new entries]
+    L[Optional: remove_duplicate_dialogue.py]
+    M[Translator fills in translations]
+    N[Developer: generate_tsv.py<br>TSV + hash, copy to public, PR]
+    O[Done]
+
+    A --> B
+    B -->|Create New Language| C
+    B -->|After OSRS Update| H
+    C --> D --> E
+    E -->|Yes| F --> G
+    E -->|No| G
+    H -->|No| I --> K
+    H -->|Yes| J --> K
+    G --> L
+    K --> L
+    L --> M --> N --> O
+```
+
 ## Create a Transcript for New Language
 
 You can ask someone in the [Discord](#lets-chat) below to do it for you, but if you want to do it yourself:
