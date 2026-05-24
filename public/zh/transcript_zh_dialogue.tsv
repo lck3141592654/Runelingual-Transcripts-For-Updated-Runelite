@@ -707,7 +707,7 @@ Hey there. How are you enjoying being part of the crew?	嘿，在这里当船员
 I'm looking forward to the next adventure! I might start writing down what we get up to.	我很期待下一次冒险！我可能会把我们的冒险经历记下来。	dialogue	Adventurer Ada	Adventurer Ada
 Well, that might save me a bit of time on my captain's log.	嗯，那可能会帮我省点写船长日志的时间。	dialogue	Adventurer Ada	Player
 Great!	太好了！	dialogue	Adventurer Ada	Adventurer Ada
-Hello [player name], what. Can. I+ do- foryou?	你好，[player name]。有什么能帮你的？			
+Hello [player name], what. Can. I+ do- foryou?	你好，[player name]。有什么能帮你的？	dialogue	Adventurer Jon	
 What are Adventure Paths?	什么是冒险之路？	dialogue	Adventurer Jon	Player
 A long time ago, I was a newbie just like you who didn't know what to do and I would be more than happy to pass on my experience.	很久以前，我也和你一样是个什么都不懂的新手，我很乐意把我的经验传授给你。	dialogue	Adventurer Jon	Adventurer Jon
 I've created some Adventure Paths which I recommend you to start off with. An Adventure Path is a list of tasks which you can complete in any order.	我创建了一些冒险之路，建议你可以从这里开始。冒险之路是一系列任务列表，你可以按任意顺序完成。	dialogue	Adventurer Jon	Adventurer Jon
