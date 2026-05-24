@@ -17,7 +17,7 @@ You swing your axe at the tree.	你挥动斧头砍向树木。	gameText
 You get some logs.	你获得了一些原木。	gameText		
 You do not have an axe which you have the woodcutting level to use.	你没有符合伐木等级要求的斧头。	gameText		
 You need to be on a members' world to do that.	你需要在会员世界才能进行此操作。	gameText		
-The door won't open - you need at least <Num0> Quest Points.	门打不开——你需要至少<Num0>任务点数。	gameText		
+The door won't open - you need at least <Num0> Quest Points.	门打不开——你需要至少<Num0>任务点。	gameText		
 There is currently no ore available in this rock.	这块岩石目前不含矿石。	gameText		
 You can't unlock the pillory, you'll let all the criminals out!	你无法打开枷锁，否则会把所有罪犯都放出来！	gameText		
 You search the crates but find nothing of value.	你搜索板条箱，但没有发现任何有价值的东西。	gameText		
@@ -231,7 +231,7 @@ You need to have a Slayer level of <Num0>.	你需要<Num0>级杀戮等级。	gam
 You need to have a Farming level of <Num0>.	你需要<Num0>级农业等级。	gameText		
 You need to have a Construction level of <Num0>.	你需要<Num0>级建筑等级。	gameText		
 You need to have a Hunter level of <Num0>.	你需要<Num0>级狩猎等级。	gameText		
-You need to have a Sailing level of <Num0>.	你需要<Num0>级航海等级。	gameText		
+You need to have a Sailing level of <Num0>.	你需要<Num0>级航海技能。	gameText		
 You do not have enough Mind Runes to cast this spell.	你没有足够的心灵符石来施放此法术。	gameText		
 You do not have enough Air Runes to cast this spell.	你没有足够的风符石来施放此法术。	gameText		
 You do not have enough Water Runes to cast this spell.	你没有足够的水符石来施放此法术。	gameText		
@@ -645,7 +645,7 @@ Congratulations, you've just advanced your Slayer level. You are now level <Num0
 Congratulations, you've just advanced your Farming level. You are now level <Num0>.	恭喜，你的农业等级提升了！你现在有<Num0>级。	gameText		
 Congratulations, you've just advanced your Construction level. You are now level <Num0>.	恭喜，你的建筑等级提升了！你现在有<Num0>级。	gameText		
 Congratulations, you've just advanced your Hunter level. You are now level <Num0>.	恭喜，你的狩猎等级提升了！你现在有<Num0>级。	gameText		
-Congratulations, you've just advanced your Sailing level. You are now level <Num0>.	恭喜，你的航海等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Sailing level. You are now level <Num0>.	恭喜，你的航海技能提升了！你现在有<Num0>级。	gameText		
 You can't set up a Buy offer at the moment.	你目前无法设置购买报价。	gameText		
 You can't set up a Sell offer at the moment.	你目前无法设置出售报价。	gameText		
 You need to fill the jug with water first.	你需要先用水壶装水。	gameText		

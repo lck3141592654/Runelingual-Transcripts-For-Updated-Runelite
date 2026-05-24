@@ -1342,14 +1342,14 @@ Wooden foot protection.	木制足部护具。	examine	item	Splitbark boots
 A diary belonging to Herbi Flax.	赫比‧弗拉克斯的日记。	examine	item	Diary
 The remains of a deadly shade.	一具致命的阴魂遗骸。	examine	item	Loar remains
 I need another ingredient to finish this potion.	我还需要一种材料才能完成这瓶药水。	examine	item	Unfinished potion
-4 doses serum 207 as described in Herbi Flax's diary.	4份207号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (4)
-3 doses serum 207 as described in Herbi Flax's diary.	3份207号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (3)
-2 doses serum 207 as described in Herbi Flax's diary.	2份207号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (2)
-1 dose serum 207 as described in Herbi Flax's diary.	1份207号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (1)
-4 doses permanent serum 208 as described in Herbi Flax's diary.	4份永久208号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (4)
-3 doses permanent serum 208 as described in Herbi Flax's diary.	3份永久208号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (3)
-2 doses permanent serum 208 as described in Herbi Flax's diary.	2份永久208号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (2)
-1 dose permanent serum 208 as described in Herbi Flax's diary.	1份永久208号药剂，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (1)
+4 doses serum 207 as described in Herbi Flax's diary.	4份207号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (4)
+3 doses serum 207 as described in Herbi Flax's diary.	3份207号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (3)
+2 doses serum 207 as described in Herbi Flax's diary.	2份207号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (2)
+1 dose serum 207 as described in Herbi Flax's diary.	1份207号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 207 (1)
+4 doses permanent serum 208 as described in Herbi Flax's diary.	4份永久208号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (4)
+3 doses permanent serum 208 as described in Herbi Flax's diary.	3份永久208号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (3)
+2 doses permanent serum 208 as described in Herbi Flax's diary.	2份永久208号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (2)
+1 dose permanent serum 208 as described in Herbi Flax's diary.	1份永久208号血清，如赫比‧弗拉克斯日记中所述。	examine	item	Serum 208 (1)
 A well carved limestone brick.	一块雕刻精良的石灰石砖。	examine	item	Limestone brick
 4 doses of olive oil.	4份橄榄油。	examine	item	Olive oil(4)
 3 doses of olive oil.	3份橄榄油。	examine	item	Olive oil(3)
@@ -3876,7 +3876,7 @@ Woodcutting skillcape hood.	伐木技能斗篷兜帽。	examine	item	Woodcutting
 The cape worn by master farmers.	农业大师佩戴的斗篷。	examine	item	Farming cape
 Farming skillcape hood.	农业技能斗篷兜帽。	examine	item	Farming hood
 The cape worn by only the most experienced adventurers.	只有最有经验的冒险者佩戴的斗篷。	examine	item	Quest point cape
-Quest point cape hood.	任务点数斗篷兜帽。	examine	item	Quest point hood
+Quest point cape hood.	任务点斗篷兜帽。	examine	item	Quest point hood
 Oak cape rack	橡木斗篷架	examine	item	Oak cape rack
 Teak cape rack	柚木斗篷架	examine	item	Teak cape rack
 Mahogany cape rack	红木斗篷架	examine	item	Mahogany cape rack
@@ -7263,7 +7263,7 @@ An ancient warrior's platelegs.	一件古代战士的腿甲。	examine	item	Torv
 Shards from an ecumenical key.	来自普世钥匙的碎片。	examine	item	Ecumenical key shard
 A blood-filled essence with magical properties.	一个充满血魔法属性的精华。	examine	item	Blood essence
 High grade material.	高等级材料。	examine	item	Bandosian components
-A kit that can be used to apply a Leagues III - Shattered Relics theme to an Abyssal whip or Tentacle, Rune crossbow or God book piece.	一个套件，可将联赛 III - 破碎遗物主题应用于深渊鞭或深渊触手、符文弩或神之书部件。	examine	item	Shattered relics variety ornament kit
+A kit that can be used to apply a Leagues III - Shattered Relics theme to an Abyssal whip or Tentacle, Rune crossbow or God book piece.	一个套件，可将联赛 III - 破碎遗物主题应用于深渊长鞭或深渊触手、符文弩或神之书部件。	examine	item	Shattered relics variety ornament kit
 A banner showcasing the colours of Leagues III - Shattered Relics.	一面展示联赛 III - 破碎遗物颜色的旗帜。	examine	item	Shattered banner
 The headgear of a Shattered Relic Hunter.	破碎遗物猎人的头饰。	examine	item	Shattered hood (t1)
 The shirt of a Shattered Relic Hunter.	破碎遗物猎人的衬衫。	examine	item	Shattered top (t1)
@@ -9607,7 +9607,7 @@ A plate full of food and a cup full of festive drink!	一盘满满的食物和�
 The lesser spotted Talpidae Saradominus.	较少见的萨拉多明鼹鼠。	examine	item	Holy moleys
 Completes the Kharidian storyline, up to and including Beneath Cursed Sands.	完成卡里迪安故事线，包括诅咒沙地之下。	examine	item	Kharidian quest lamp
 Completes the Myreque storyline, up to and including Night at the Theatre.	完成迈雷克故事线，包括剧院之夜。	examine	item	Myreque quest lamp
-Completes the Dragonkin storyline, up to and including Dragon Slayer 2.	完成龙裔故事线，包括屠龙者 II。	examine	item	Dragonkin quest lamp
+Completes the Dragonkin storyline, up to and including Dragon Slayer 2.	完成龙人故事线，包括屠龙者 II。	examine	item	Dragonkin quest lamp
 Completes the Mahjarrat storyline, up to and including Secrets of the North.	完成玛哈加特故事线，包括北方的秘密。	examine	item	Mahjarrat 2 quest lamp
 Completes the Camelot storyline, up to and including King's Ransom including the training.	完成卡美洛城堡故事线，包括国王的赎金及训练。	examine	item	Camelot quest lamp
 Completes Recipe for Disaster, excluding any pre-quest requirements.	完成灾难食谱，不包括任何前置任务要求。	examine	item	Recipe for disaster quest lamp
@@ -18174,7 +18174,7 @@ I doubt it was cute when it was alive.	我怀疑它活着的时候不可爱。	e
 What a waste of prayer xp!	真是浪费祈祷经验值！	examine	object	Bones
 Looks scary, but it evidently wasn't tough enough.	看起来可怕，但显然不够坚硬。	examine	object	Bones
 It might have once looked something like a human.	它曾经可能长得像人类。	examine	object	Bones
-Could this have been one of the ancient dragonkin?	这可能是远古龙裔之一吗？	examine	object	Bones
+Could this have been one of the ancient dragonkin?	这可能是远古龙人之一吗？	examine	object	Bones
 Looks like it used to be some kind of reptile.	看起来曾经是某种爬行动物。	examine	object	Bones
 I'm really glad it's dead.	我真的很高兴它死了。	examine	object	Bones
 It looks like a fishing contest is taking place through here.	看起来这里正在举行钓鱼比赛。	examine	object	Fishing Contest Banner
@@ -19967,7 +19967,7 @@ A display model of the druid stone circle.	一个德鲁伊石圈的展示模型�
 A display of different runes.	一个展示不同符石的展柜。	examine	object	Display case
 A display model of the runestone essence rocks.	一个符石精华矿的模型。	examine	object	Display case
 A map of the world.	一张世界地图。	examine	object	Display case
-A display of Robert the Strong in battle with Dragonkin.	一个展示强者罗伯特与龙裔战斗的展柜。	examine	object	Display case
+A display of Robert the Strong in battle with Dragonkin.	一个展示强者罗伯特与龙人战斗的展柜。	examine	object	Display case
 A star chart.	一张星图。	examine	object	Display case
 A display of seven knights' helms.	一个展示七骑士头盔的展柜。	examine	object	Display case
 A map of Morytania.	一张莫利塔尼亚地图。	examine	object	Display case

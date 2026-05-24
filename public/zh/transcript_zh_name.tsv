@@ -1165,9 +1165,9 @@ Seasoned legs	已调味的腿	name	item	Seasoned legs
 Spicy worm	香辣蠕虫	name	item	Spicy worm
 King worm	蠕虫王	name	item	King worm
 Batta tin	芭塔模具	name	item	Batta tin
-Crunchy tray	脆饼托盘	name	item	Crunchy tray
+Crunchy tray	脆饼烤盘	name	item	Crunchy tray
 Gnomebowl mould	地精碗模具	name	item	Gnomebowl mould
-Gianne's cook book	吉安的烹饪书	name	item	Gianne's cook book
+Gianne's cook book	吉安的食谱	name	item	Gianne's cook book
 Gnome spice	地精香料	name	item	Gnome spice
 Gianne dough	吉安面团	name	item	Gianne dough
 Odd gnomebowl	奇怪的地精碗	name	item	Odd gnomebowl
@@ -1680,14 +1680,14 @@ Riyl remains	里尔的遗骸	name	item	Riyl remains
 Asyn remains	阿辛的遗骸	name	item	Asyn remains
 Fiyr remains	菲尔的遗骸	name	item	Fiyr remains
 Unfinished potion	未完成的药水	name	item	Unfinished potion
-Serum 207 (4)	207号药剂 (4)	name	item	Serum 207 (4)
-Serum 207 (3)	207号药剂 (3)	name	item	Serum 207 (3)
-Serum 207 (2)	207号药剂 (2)	name	item	Serum 207 (2)
-Serum 207 (1)	207号药剂 (1)	name	item	Serum 207 (1)
-Serum 208 (4)	208号药剂 (4)	name	item	Serum 208 (4)
-Serum 208 (3)	208号药剂 (3)	name	item	Serum 208 (3)
-Serum 208 (2)	208号药剂 (2)	name	item	Serum 208 (2)
-Serum 208 (1)	208号药剂 (1)	name	item	Serum 208 (1)
+Serum 207 (4)	207号血清 (4)	name	item	Serum 207 (4)
+Serum 207 (3)	207号血清 (3)	name	item	Serum 207 (3)
+Serum 207 (2)	207号血清 (2)	name	item	Serum 207 (2)
+Serum 207 (1)	207号血清 (1)	name	item	Serum 207 (1)
+Serum 208 (4)	208号血清 (4)	name	item	Serum 208 (4)
+Serum 208 (3)	208号血清 (3)	name	item	Serum 208 (3)
+Serum 208 (2)	208号血清 (2)	name	item	Serum 208 (2)
+Serum 208 (1)	208号血清 (1)	name	item	Serum 208 (1)
 Limestone brick	石灰石砖	name	item	Limestone brick
 Olive oil(4)	橄榄油 (4)	name	item	Olive oil(4)
 Olive oil(3)	橄榄油 (3)	name	item	Olive oil(3)
@@ -1950,7 +1950,7 @@ Gargoyle	石像鬼	name	item	Gargoyle
 Nechryael	死灵魔	name	item	Nechryael
 Abyssal demon	深渊恶魔	name	item	Abyssal demon
 Broad arrows	宽箭	name	item	Broad arrows
-Abyssal whip	深渊鞭	name	item	Abyssal whip
+Abyssal whip	深渊长鞭	name	item	Abyssal whip
 Granite maul	花岗岩锤	name	item	Granite maul
 Enchanted gem	魔法宝石	name	item	Enchanted gem
 Mirror shield	镜盾	name	item	Mirror shield
@@ -4661,8 +4661,8 @@ Woodcutting hood	伐木兜帽	name	item	Woodcutting hood
 Farming cape	农业斗篷	name	item	Farming cape
 Farming cape(t)	农业斗篷 (镶边)	name	item	Farming cape(t)
 Farming hood	农业兜帽	name	item	Farming hood
-Quest point cape	任务点数斗篷	name	item	Quest point cape
-Quest point hood	任务点数兜帽	name	item	Quest point hood
+Quest point cape	任务点斗篷	name	item	Quest point cape
+Quest point hood	任务点兜帽	name	item	Quest point hood
 Oak cape rack	橡木斗篷架	name	item	Oak cape rack
 Teak cape rack	柚木斗篷架	name	item	Teak cape rack
 Mahogany cape rack	红木斗篷架	name	item	Mahogany cape rack
@@ -6092,7 +6092,7 @@ Ancient rune armour set (lg)	古代符文盔甲套装 (腿甲)	name	item	Ancient
 Ancient rune armour set (sk)	古代符文盔甲套装 (裙甲)	name	item	Ancient rune armour set (sk)
 Combat potion set	战斗药水套装	name	item	Combat potion set
 Super potion set	超级药水套装	name	item	Super potion set
-Quest point cape (t)	任务点数斗篷 (镶边)	name	item	Quest point cape (t)
+Quest point cape (t)	任务点斗篷 (镶边)	name	item	Quest point cape (t)
 Achievement diary cape (t)	成就日志斗篷 (镶边)	name	item	Achievement diary cape (t)
 Achievement diary hood	成就日志兜帽	name	item	Achievement diary hood
 Chompy chick	小食人鸟	name	item	Chompy chick
@@ -8974,7 +8974,7 @@ Void mage helm (or)	虚空法师头盔 (镶边)	name	item	Void mage helm (or)
 Void ranger helm (or)	虚空射手头盔 (镶边)	name	item	Void ranger helm (or)
 Void melee helm (or)	虚空近战头盔 (镶边)	name	item	Void melee helm (or)
 Shattered relics void ornament kit	破碎遗物虚空装饰套件	name	item	Shattered relics void ornament kit
-Abyssal whip (or)	深渊鞭 (镶边)	name	item	Abyssal whip (or)
+Abyssal whip (or)	深渊长鞭 (镶边)	name	item	Abyssal whip (or)
 Abyssal tentacle (or)	深渊触手 (镶边)	name	item	Abyssal tentacle (or)
 Rune crossbow (or)	符文弩 (镶边)	name	item	Rune crossbow (or)
 Book of balance (or)	平衡圣典 (镶边)	name	item	Book of balance (or)
@@ -10183,7 +10183,7 @@ Jug of blessed sunfire wine	一壶被祝福的阳火葡萄酒	name	item	Jug of b
 Jug of blessed wine	一壶被祝福的葡萄酒	name	item	Jug of blessed wine
 Token	代币	name	item	Token
 A nice key	一把漂亮的钥匙	name	item	A nice key
-Sunbeam ale	日光麦酒	name	item	Sunbeam ale
+Sunbeam ale	阳光麦酒	name	item	Sunbeam ale
 Steamforge brew	蒸汽熔炉啤酒	name	item	Steamforge brew
 Eclipse red	月蚀红葡萄酒	name	item	Eclipse red
 Moon-lite	月光酒	name	item	Moon-lite
@@ -11630,7 +11630,7 @@ Christmas dinner	圣诞晚餐	name	item	Christmas dinner
 Holy moleys	神圣鼹鼠	name	item	Holy moleys
 Kharidian quest lamp	卡里迪安任务神灯	name	item	Kharidian quest lamp
 Myreque quest lamp	迈雷克任务神灯	name	item	Myreque quest lamp
-Dragonkin quest lamp	龙裔任务神灯	name	item	Dragonkin quest lamp
+Dragonkin quest lamp	龙人任务神灯	name	item	Dragonkin quest lamp
 Mahjarrat 2 quest lamp	玛哈加特 2 任务神灯	name	item	Mahjarrat 2 quest lamp
 Camelot quest lamp	卡美洛城堡任务神灯	name	item	Camelot quest lamp
 Recipe for disaster quest lamp	灾难食谱任务神灯	name	item	Recipe for disaster quest lamp
@@ -13027,7 +13027,7 @@ Sphinx	狮身人面像	name	npc	Sphinx
 Neite	奈特	name	npc	Neite
 Robert the Strong	强者罗伯特	name	npc	Robert the Strong
 Odysseus	奥德修斯	name	npc	Odysseus
-Dragonkin	龙裔	name	npc	Dragonkin
+Dragonkin	龙人	name	npc	Dragonkin
 R4ng3rNo0b889	R4ng3rNo0b889	name	npc	R4ng3rNo0b889
 Love Cats	爱猫人士	name	npc	Love Cats
 Blood Blamish Snail	鲜血斑点蜗牛	name	npc	Blood Blamish Snail

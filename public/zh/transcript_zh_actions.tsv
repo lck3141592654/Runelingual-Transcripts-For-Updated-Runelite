@@ -1649,7 +1649,7 @@ Trade with	交易	actions	player
 Lookup	查询	actions	player	
 Equipment	装备	actions	player	
 Report	举报	actions	player	
-Adventure Paths	冒险路径	actions	menu	
+Adventure Paths	冒险之路	actions	menu	
 Show <colNum0>Paths</col>	显示<colNum0>路径</col>	actions	menu	
 Show <colNum0>Settings</col>	显示<colNum0>设置</col>	actions	menu	
 Zoom out	拉远视角	actions	menu	
