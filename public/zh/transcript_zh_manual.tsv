@@ -1,6 +1,6 @@
 english	translation	category	sub_category	source
 Barbarian Assault	野蛮人突袭	manual	activity	
-Blast Furnace	高炉	manual	activity	
+Blast Furnace	熔炉	manual	activity	
 Castle Wars	城堡战争	manual	activity	
 Fishing Trawler	捕鱼拖网	manual	activity	
 Burthorpe Games Room	伯索普游戏室	manual	activity	
@@ -24,7 +24,7 @@ Theatre of Blood	血腥剧场	manual	activity
 Soul Wars	灵魂战争	manual	activity	
 Shooting Stars	流星	manual	activity	
 Tombs of Amascut	阿玛斯库特之墓	manual	activity	
-Mage Training Arena	法师训练场	manual	activity	
+Mage Training Arena	魔法师训练场	manual	activity	
 Yes	是	manual	emote	
 No	否	manual	emote	
 Bow	鞠躬	manual	emote	
@@ -132,7 +132,7 @@ Short Choppy	短碎发	manual	hair_beard
 Side Afro	侧非洲式	manual	hair_beard	
 Punk	朋克头	manual	hair_beard	
 Half-shaved	半剃头	manual	hair_beard	
-Fremennik	弗莱明尼克式	manual	hair_beard	
+Fremennik	费明尼克式	manual	hair_beard	
 Elven	精灵式	manual	hair_beard	
 Medium Coils	中卷	manual	hair_beard	
 High ponytail	高马尾	manual	hair_beard	
@@ -241,7 +241,7 @@ Fossil Island	化石岛	manual	location
 Asgarnian Ice Dungeon	阿斯加尼亚冰原地牢	manual	location	
 Ogre Enclave	食人魔飞地	manual	location	
 Brine Rat Cavern	盐水鼠洞穴	manual	location	
-Zanaris	失落之城	manual	location	
+Zanaris	扎纳里斯城	manual	location	
 In the Lighthouse	灯塔内	manual	location	
 Smoke Dungeon	烟雾地牢	manual	location	
 Evil Chicken's Lair	邪恶鸡的巢穴	manual	location	
@@ -282,7 +282,7 @@ Trollweiss Mountain	巨魔山脉	manual	location
 Death Altar	死亡祭坛	manual	location	
 Mos Le'Harmless Cave	莫斯勒哈姆斯洞穴	manual	location	
 Coronation ceremony during A Kingdom Divided.	分裂的王国任务期间的加冕典礼	manual	location	
-Fight with the Giant Roc during My Arm's Big Adventure.	'我的手臂''大冒险期间与巨型巨鸟的战斗	manual	location	
+Fight with the Giant Roc during My Arm's Big Adventure.	"""我的手臂""大冒险期间与巨型巨鸟的战斗"	manual	location	
 Scorpia's cave beneath the Scorpion Pit.	蝎子坑下方的天蝎洞穴	manual	location	
 Beneath Cursed Sands	诅咒沙地之下	manual	location	
 Perilous Moons	灾厄之月	manual	location	
@@ -371,7 +371,7 @@ Ice and Fire	冰与火	manual	music
 while fighting the Wintertodt.	与冬将军战斗时	manual	music	
 Witching	巫术	manual	music	
 Woe of the Wyvern	飞龙之祸	manual	music	
-in the Asgarnian Ice Dungeon.	阿斯加尼亚冰地牢	manual	music	
+in the Asgarnian Ice Dungeon.	阿斯加尼亚冰原地牢	manual	music	
 Wonder	惊奇	manual	music	
 Wonderous	奇妙	manual	music	
 near the Legends' Guild.	在传奇公会附近	manual	music	
@@ -455,7 +455,7 @@ Plots and Plans	阴谋与计划	manual	music
 Burning Sun, The	燃烧之日	manual	music	
 The Burning Sun	燃烧之日	manual	music	
 Undead Army	亡灵大军	manual	music	
-during the Defender of Varrock quest.	维洛克城守护者任务期间	manual	music	
+during the Defender of Varrock quest.	维洛克守护者任务期间	manual	music	
 Dream Theatre, The	梦之剧场	manual	music	
 The Dream Theatre	梦之剧场	manual	music	
 Zombie Invasion	僵尸入侵	manual	music	
@@ -487,8 +487,8 @@ Learn how to use the Goblin Village teleport spheres.	学习如何使用哥布�
 Ascent of Arceuus, The	阿西乌斯城崛起	manual	quest	
 The Ascent of Arceuus	阿西乌斯城崛起	manual	quest	
 Gain the Arceuus Memoirs teleport.	获得阿西乌斯回忆录传送	manual	quest	
-Alfred Grimhand's Barcrawl	阿尔弗雷德‧格林汉德的酒吧巡游	manual	quest	
-MQ: Alfred Grimhand's Barcrawl	迷你任务：阿尔弗雷德‧格林汉德的酒吧巡游	manual	quest	
+Alfred Grimhand's Barcrawl	阿尔弗雷德.格林汉德的酒吧巡游	manual	quest	
+MQ: Alfred Grimhand's Barcrawl	迷你任务：阿尔弗雷德.格林汉德的酒吧巡游	manual	quest	
 Embark on a Barbarian rite of passage.	踏上野蛮人成年礼之旅	manual	quest	
 Bear Your Soul	承载你的灵魂	manual	quest	
 MQ: Bear Your Soul	迷你任务：承载你的灵魂	manual	quest	
@@ -496,11 +496,11 @@ Gain the Soul Bearer.	获得灵魂载体	manual	quest
 Below Ice Mountain	冰山之下	manual	quest	
 Gain access to the Ruins of Camdozaal.	获得进入坎多扎尔废墟的权限	manual	quest	
 Between a Rock...	岩石之间…	manual	quest	
-Gain access to the Arzinian Gold Mine.	获得进入阿齐尼安金矿的权限	manual	quest	
+Gain access to the Arzinian Gold Mine.	获得进入阿兹尼亚金矿的权限	manual	quest	
 Big Chompy Bird Hunting	大型食人鸟狩猎	manual	quest	
 Learn how to hunt Chompy Birds.	学习如何狩猎食人鸟	manual	quest	
 Biohazard	生化危机	manual	quest	
-Unlock the West Ardougne teleport spell.	解锁西阿多尼城传送法术	manual	quest	
+Unlock the West Ardougne teleport spell.	解锁西阿多尼城传送术	manual	quest	
 Black Knights' Fortress	黑骑士要塞	manual	quest	
 Assist the White Knights with their investigation.	协助白骑士进行调查	manual	quest	
 Bone Voyage	骨头之旅	manual	quest	
@@ -510,7 +510,7 @@ Gain access to Mos'LeHarmless.	获得进入莫斯勒哈姆斯岛的权限	manual
 Client of Kourend	库兰德王国的客户	manual	quest	
 Gain Kharedst's Memoirs.	获得卡雷德斯的回忆录	manual	quest	
 Clock Tower	钟楼	manual	quest	
-Help Brother Kojo repair the Clock Tower.	帮助科乔兄弟修理钟楼	manual	quest	
+Help Brother Kojo repair the Clock Tower.	帮助科乔修士修理钟楼	manual	quest	
 Cold War	冷战	manual	quest	
 Gain access to the Penguin Agility Course.	获得进入企鹅敏捷训练场的权限	manual	quest	
 Contact!	接触！	manual	quest	
@@ -521,9 +521,9 @@ Corsair Curse, The	海盗诅咒	manual	quest
 The Corsair Curse	海盗诅咒	manual	quest	
 Gain access to the Corsair Cove Bank.	获得进入海盗湾银行的权限	manual	quest	
 Creature of Fenkenstrain	芬肯斯特恩的怪物	manual	quest	
-Gain a Ring of Charos.	获得查罗斯戒指	manual	quest	
+Gain a Ring of Charos.	获得查罗斯之戒	manual	quest	
 Curse of the Empty Lord	空无之主的诅咒	manual	quest	
-MQ: Curse of the Empty Lord	迷你任务：空虚领主的诅咒	manual	quest	
+MQ: Curse of the Empty Lord	迷你任务：空无之主的诅咒	manual	quest	
 Gain a set of Ghostly Robes.	获得一套幽灵长袍	manual	quest	
 Daddy's Home	父亲的房子	manual	quest	
 MQ: Daddy's Home	迷你任务：父亲的房子	manual	quest	
@@ -584,7 +584,7 @@ Gain a Crystal Saw Seed.	获得水晶锯种子	manual	quest
 Fairytale I - Growing Pains	童话 I-成长的烦恼	manual	quest	
 Learn how to teleport using Fairy Rings (start Fairytale II).	学习如何使用仙女环传送 (开始童话 II)	manual	quest	
 Fairytale II - Cure a Queen	童话 II-治愈女王	manual	quest	
-Investigate what's really going on in Zanaris.	调查萨那利斯真正发生的事情	manual	quest	
+Investigate what's really going on in Zanaris.	调查扎纳里斯城真正发生的事情	manual	quest	
 Family Crest	家徽	manual	quest	
 Gain Skill-imbued Gauntlets.	获得技能灌注手套	manual	quest	
 Family Pest	家族害虫	manual	quest	
@@ -598,8 +598,8 @@ Gain the Khazard armour.	获得卡扎德盔甲	manual	quest
 Fishing Contest	钓鱼大赛	manual	quest	
 Gain access to White Wolf Mountain Pass.	获得进入白狼山通道的权限	manual	quest	
 Forgettable Tale...	被遗忘的故事…	manual	quest	
-Forsaken Tower, The	被遗弃之塔	manual	quest	
-The Forsaken Tower	被遗弃之塔	manual	quest	
+Forsaken Tower, The	被遗弃的高塔	manual	quest	
+The Forsaken Tower	被遗弃的高塔	manual	quest	
 Gain the Lovakengj Memoirs teleport.	获得洛瓦肯吉回忆录传送	manual	quest	
 Fremennik Exiles, The	费明尼克流亡者	manual	quest	
 The Fremennik Exiles	费明尼克流亡者	manual	quest	
@@ -611,7 +611,7 @@ Fremennik Trials, The	费明尼克试炼	manual	quest
 The Fremennik Trials	费明尼克试炼	manual	quest	
 Gain great XP in several skills.	在多个技能中获得大量经验值	manual	quest	
 Garden of Tranquillity	宁静花园	manual	quest	
-Gain an Activated Ring of Charos.	获得已激活的查罗斯戒指	manual	quest	
+Gain an Activated Ring of Charos.	获得已激活的查罗斯之戒	manual	quest	
 General's Shadow, The	将军之影	manual	quest	
 The General's Shadow	将军之影	manual	quest	
 MQ: The General's Shadow	迷你任务：将军之影	manual	quest	
@@ -651,7 +651,7 @@ Gain great Prayer and Defence XP.	获得大量祈祷和防御经验值	manual	qu
 Horror from the Deep	深海惊魂	manual	quest	
 Gain a God book.	获得神之书	manual	quest	
 Icthlarin's Little Helper	伊克哈林的小帮手	manual	quest	
-Gain access to Sophanem.	获得进入索法尼恩的权限	manual	quest	
+Gain access to Sophanem.	获得进入索法尼恩城的权限	manual	quest	
 Imp Catcher	小恶魔捕手	manual	quest	
 Gain early game Magic XP.	获得游戏早期的魔法经验值	manual	quest	
 In Aid of the Myreque	援助迈雷克	manual	quest	
@@ -662,7 +662,7 @@ Gain an XP Lamp.	获得经验值神灯	manual	quest
 In Search of the Myreque	寻找迈雷克	manual	quest	
 Start the Myreque storyline.	开始迈雷克故事线	manual	quest	
 Jungle Potion	丛林药水	manual	quest	
-Assist Trufitus Shakaya with his ritual.	协助特鲁菲图斯‧沙卡亚进行仪式	manual	quest	
+Assist Trufitus Shakaya with his ritual.	协助特鲁菲图斯.沙卡亚进行仪式	manual	quest	
 Kingdom Divided, A	分裂的王国	manual	quest	
 A Kingdom Divided	分裂的王国	manual	quest	
 Learn how to cast Resurrection spells.	学习如何施放复活法术	manual	quest	
@@ -671,13 +671,13 @@ Learn how to use the Chivalry and Piety prayers.	学习如何使用骑士精神�
 Knight's Sword, The	骑士之剑	manual	quest	
 The Knight's Sword	骑士之剑	manual	quest	
 Gain great Smithing XP.	获得大量锻造经验值	manual	quest	
-Lair of Tarn Razorlor	塔恩‧雷泽洛尔的巢穴	manual	quest	
-MQ: Lair of Tarn Razorlor	迷你任务：塔恩‧雷泽洛尔的巢穴	manual	quest	
+Lair of Tarn Razorlor	塔恩.雷泽洛尔的巢穴	manual	quest	
+MQ: Lair of Tarn Razorlor	迷你任务：塔恩.雷泽洛尔的巢穴	manual	quest	
 Gain an enchanted Salve Amulet.	获得附魔的萨鲁夫护符	manual	quest	
 Legends' Quest	传奇任务	manual	quest	
 Gain access to the Legend's Guild.	获得进入传奇公会的权限	manual	quest	
 Lost City	失落之城	manual	quest	
-Gain access to Zanaris.	获得进入萨那利斯的权限	manual	quest	
+Gain access to Zanaris.	获得进入扎纳里斯城的权限	manual	quest	
 Lost Tribe, The	失落的部落	manual	quest	
 The Lost Tribe	失落的部落	manual	quest	
 Gain access to the Bone Weapon Shop.	获得进入骨制武器店的权限	manual	quest	
@@ -689,7 +689,7 @@ Unlock the God spells.	解锁神术	manual	quest
 Mage Arena II	魔法师竞技场 II	manual	quest	
 MQ: Mage Arena II	迷你任务：魔法师竞技场 II	manual	quest	
 Learn how to imbue the God Capes.	学习如何强化神之斗篷	manual	quest	
-Making Friends with My Arm	与''我的手臂''交朋友	manual	quest	
+Making Friends with My Arm	"与""我的手臂""交朋友"	manual	quest	
 Gain great XP and a disease-free herb patch.	获得大量经验值和无病害草药种植地	manual	quest	
 Making History	缔造历史	manual	quest	
 Help Jorral restore a historic location.	协助乔拉尔修复一处历史遗迹	manual	quest	
@@ -704,13 +704,13 @@ Monk's Friend	僧侣之友	manual	quest
 Gain early game Woodcutting XP.	获得游戏早期的伐木经验值	manual	quest	
 Mountain Daughter	山的女儿	manual	quest	
 Help the people of the Mountain Tribe.	帮助山地部落的人民	manual	quest	
-Mourning's End Part I	哀悼的终结  I	manual	quest	
+Mourning's End Part I	哀悼的终结 I	manual	quest	
 Gain great Hitpoint and Thieving XP.	获得大量生命值和偷窃经验值	manual	quest	
 Mourning's End Part II	哀悼的终结 II	manual	quest	
 Learn how to craft Death Runes.	学习如何制作死亡符石	manual	quest	
-Murder Mystery	谋杀案之谜	manual	quest	
-Investigate a murder at Sinclair Mansion.	调查辛克莱尔公馆的谋杀案	manual	quest	
-My Arm's Big Adventure	'我的手臂''大冒险	manual	quest	
+Murder Mystery	谋杀之谜	manual	quest	
+Investigate a murder at Sinclair Mansion.	调查辛克莱尔庄园的谋杀案	manual	quest	
+My Arm's Big Adventure	"""我的手臂""大冒险"	manual	quest	
 Gain access to a disease-free herb patch.	获得免受病害影响的草药种植地	manual	quest	
 Nature Spirit	自然之灵	manual	quest	
 Gain access to Mort Myre and the Nature Altar.	获得进入莫特迈耶和自然祭坛的权限	manual	quest	
@@ -726,7 +726,7 @@ Learn how to brew Guthix Rest Tea.	学习如何酿造古斯休憩茶	manual	ques
 Pirate's Treasure	海盗的宝藏	manual	quest	
 Explore a story about buried treasure.	探寻一段关于埋藏宝藏的故事	manual	quest	
 Plague City	瘟疫之城	manual	quest	
-Unlock the Ardougne teleport spell.	解锁阿多尼城传送法术	manual	quest	
+Unlock the Ardougne teleport spell.	解锁阿多尼城传送术	manual	quest	
 Porcine of Interest, A	有趣的猪	manual	quest	
 A Porcine of Interest	有趣的猪	manual	quest	
 Learn how to hunt Slayer monsters.	学习如何狩猎''杀戮目标''	manual	quest	
@@ -827,7 +827,7 @@ Help the people of Draynor Village with a vampyre problem.	帮助德雷诺村的
 Wanted!	通缉！	manual	quest	
 Gain access to the White Knight Armoury.	获得进入白骑士军械库的权限	manual	quest	
 Watchtower	瞭望塔	manual	quest	
-Unlock the Watchtower teleport spell.	解锁瞭望塔传送法术	manual	quest	
+Unlock the Watchtower teleport spell.	解锁瞭望塔传送术	manual	quest	
 Waterfall Quest	瀑布任务	manual	quest	
 Gain great combat XP.	获得大量战斗经验值	manual	quest	
 What Lies Below	下方之物	manual	quest	
@@ -861,26 +861,26 @@ MQ: Into the Tombs	迷你任务：进入墓穴	manual	quest
 Experience the Tombs of Amascut.	体验阿玛斯库特之墓	manual	quest	
 Recipe for Disaster Another Cook's Quest	灾难食谱 - 另一位厨师的任务	manual	quest	
 Recipe for Disaster - Another Cook's Quest	灾难食谱 - 另一位厨师的任务	manual	quest	
-Gain access to the Culinaromancer's Chest.	获得打开烹饪魔法师的宝箱的权限	manual	quest	
+Gain access to the Culinaromancer's Chest.	获得打开烹饪大师的宝箱的权限	manual	quest	
 Recipe for Disaster Dwarf	灾难食谱 - 矮人	manual	quest	
 Recipe for Disaster - Mountain Dwarf	灾难食谱 - 山地矮人	manual	quest	
-Gain further access to the Culinaromancer's Chest.	获得进一步打开烹饪魔法师的宝箱的权限	manual	quest	
+Gain further access to the Culinaromancer's Chest.	获得进一步打开烹饪大师的宝箱的权限	manual	quest	
 Recipe for Disaster Goblins	灾难食谱 - 哥布林	manual	quest	
 Recipe for Disaster - Wartface & Bentnoze	灾难食谱 - 疣脸与弯鼻	manual	quest	
 Recipe for Disaster Pirate	灾难食谱 - 海盗	manual	quest	
 Recipe for Disaster - Pirate Pete	灾难食谱 - 海盗皮特	manual	quest	
-Recipe for Disaster Lumbridge Guide	灾难食谱 - 仑桥镇的向导	manual	quest	
-Recipe for Disaster - Lumbridge Guide	灾难食谱 - 仑桥镇的向导	manual	quest	
+Recipe for Disaster Lumbridge Guide	灾难食谱 - 仑桥镇向导	manual	quest	
+Recipe for Disaster - Lumbridge Guide	灾难食谱 - 仑桥镇向导	manual	quest	
 Recipe for Disaster Dave	灾难食谱 - 戴夫	manual	quest	
 Recipe for Disaster - Evil Dave	灾难食谱 - 邪恶戴夫	manual	quest	
 Recipe for Disaster Uglogwee	灾难食谱 - 乌格洛格维	manual	quest	
-Recipe for Disaster - Skrach Uglogwee	灾难食谱 - 斯克拉奇‧乌格洛格维	manual	quest	
-Recipe for Disaster Amik Varze	灾难食谱 - 阿米克‧瓦尔泽	manual	quest	
-Recipe for Disaster - Sir Amik Varze	灾难食谱 - 阿米克‧瓦尔泽爵士	manual	quest	
-Recipe for Disaster Awowogei	灾难食谱 - 阿沃沃盖	manual	quest	
-Recipe for Disaster - King Awowogei	灾难食谱 - 阿沃沃盖国王	manual	quest	
-Recipe for Disaster Culinaromancer	灾难食谱 - 烹饪魔法师	manual	quest	
-Recipe for Disaster - Culinaromancer	灾难食谱 - 烹饪魔法师	manual	quest	
+Recipe for Disaster - Skrach Uglogwee	灾难食谱 - 斯克拉奇.乌格洛格维	manual	quest	
+Recipe for Disaster Amik Varze	灾难食谱 - 阿米克.瓦尔泽	manual	quest	
+Recipe for Disaster - Sir Amik Varze	灾难食谱 - 阿米克.瓦尔泽爵士	manual	quest	
+Recipe for Disaster Awowogei	灾难食谱 - 阿沃盖	manual	quest	
+Recipe for Disaster - King Awowogei	灾难食谱 - 阿沃盖国王	manual	quest	
+Recipe for Disaster Culinaromancer	灾难食谱 - 烹饪大师	manual	quest	
+Recipe for Disaster - Culinaromancer	灾难食谱 - 烹饪大师	manual	quest	
 Complete the storyline and unlock the Barrows Gloves.	完成故事线并解锁巴罗斯手套	manual	quest	
 Secrets of the North	北方的秘密	manual	quest	
 Uncover the Secrets of the North and unlock a new boss.	揭开北方的秘密并解锁新Boss	manual	quest	
@@ -1032,7 +1032,7 @@ Bloodveld	血魔	manual	slayer_mob
 Dust Devils	尘魔	manual	slayer_mob	
 Jellies	果冻怪	manual	slayer_mob	
 Rockslugs	岩石蛞蝓	manual	slayer_mob	
-Nechryael	死灵恶魔	manual	slayer_mob	
+Nechryael	死灵魔	manual	slayer_mob	
 Kalphite	卡尔夫特虫	manual	slayer_mob	
 Earth Warriors	土元素战士	manual	slayer_mob	
 Otherworldly Beings	异界生物	manual	slayer_mob	
@@ -1080,15 +1080,15 @@ Aviansies	鸟人	manual	slayer_mob
 Cave Kraken	洞穴克拉肯海怪	manual	slayer_mob	
 Smoke Devils	烟魔	manual	slayer_mob	
 TzHaar	特扎尔	manual	slayer_mob	
-TzTok-Jad	特兹托克‧贾德	manual	slayer_mob	
+TzTok-Jad	特兹托克.贾德	manual	slayer_mob	
 Bosses	Boss	manual	slayer_mob	
 Mammoths	猛犸象	manual	slayer_mob	
 Rogues	盗贼	manual	slayer_mob	
-Ents	树精	manual	slayer_mob	
+Ents	树人	manual	slayer_mob	
 Bandits	强盗	manual	slayer_mob	
 Dark Warriors	黑暗战士	manual	slayer_mob	
 Lava Dragons	熔岩龙	manual	slayer_mob	
-TzKal-Zuk	特兹卡尔‧祖克	manual	slayer_mob	
+TzKal-Zuk	特兹卡尔.祖克	manual	slayer_mob	
 Revenants	亡灵	manual	slayer_mob	
 Chaos Druids	混沌德鲁伊	manual	slayer_mob	
 Wyrms	蛇龙	manual	slayer_mob	
@@ -1133,7 +1133,7 @@ Horrorific	恐怖无比	manual	slayer_reward
 To Dust You Shall Return	你将归于尘土	manual	slayer_reward	
 Wyver-nother one	再来一只飞龙	manual	slayer_reward	
 Get Smashed	砸个痛快	manual	slayer_reward	
-Nechs Please	请给我更多的死灵恶魔	manual	slayer_reward	
+Nechs Please	请给我更多的死灵魔	manual	slayer_reward	
 Krack On	全力以赴：克拉肯海怪	manual	slayer_reward	
 Reptile Got Ripped	爬虫变强了	manual	slayer_reward	
 King Black Bonnet	黑龙王兜帽	manual	slayer_reward	
@@ -1162,7 +1162,7 @@ Warped Reality	扭曲现实	manual	slayer_reward
 Automatically smash Gargoyles when they're on critical health, if you have the right tool.	如果你有正确的工具，当石像鬼生命值危急时自动粉碎它们。	manual	slayer_reward	
 Automatically salt Rockslugs when they're on critical health, if you have salt.	如果你有盐，当岩石蛞蝓生命值危急时自动撒盐。	manual	slayer_reward	
 Automatically freeze Desert Lizards when they're on critical health, if you have ice water.	如果你有冰水，当沙漠蜥蜴生命值危急时自动冻结它们。	manual	slayer_reward	
-Automatically spray Mutated Zygomites when they're on critical health, if you have fungicide.	如果你有杀真菌剂喷雾，当菇人生命值危急时自动喷洒它们。	manual	slayer_reward	
+Automatically spray Mutated Zygomites when they're on critical health, if you have fungicide.	如果你有杀真菌剂，当菇人生命值危急时自动喷洒它们。	manual	slayer_reward	
 Learn to combine the protective Slayer headgear and Slayer gem into one universal helmet, with level 55 Crafting.	学习使用 55 级制作技能将保护性杀戮者头饰和杀戮者宝石组合成一个通用头盔。	manual	slayer_reward	
 Learn to craft your own Slayer Rings, with level 75 Crafting.	学习使用 75 级制作技能制作你自己的杀戮者戒指。	manual	slayer_reward	
 Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).	学习制作宽箭 (需要 52 级制箭)、宽弩箭 (需要 55 级制箭) 和紫水晶宽弩箭 (需要 76 级制箭)。	manual	slayer_reward	
@@ -1178,7 +1178,7 @@ Whenever you get a Greater Demon task, it will be a bigger task.	每当你获得
 Konar, Duradel and Nieve will be able to assign Red Dragons as your task.	科纳尔、杜拉德尔和尼芙将能够分配红龙作为你的任务。	manual	slayer_reward	
 Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.	科纳尔、杜拉德尔和尼芙将能够分配秘银龙作为你的任务。	manual	slayer_reward	
 Konar, Duradel, Nieve, Chaeldar and Krystilia will be able to assign Aviansies as your task.	科纳尔、杜拉德尔、尼芙、查尔达和克里斯蒂莉亚将能够分配鸟人作为你的任务。	manual	slayer_reward	
-Duradel, Nieve and Chaeldar will be able to assign TzHaar as your task. You may also be offered a chance to slay TzTok-Jad or TzKal-Zuk.	杜拉德尔、尼芙和查尔达将能够分配特扎尔作为你的任务，你也可能有机会被分配击杀特兹托克‧贾德或特兹卡尔‧祖克。	manual	slayer_reward	
+Duradel, Nieve and Chaeldar will be able to assign TzHaar as your task. You may also be offered a chance to slay TzTok-Jad or TzKal-Zuk.	杜拉德尔、尼芙和查尔达将能够分配特扎尔作为你的任务，你也可能有机会被分配击杀特兹托克.贾德或特兹卡尔.祖克。	manual	slayer_reward	
 Konar, Duradel, Nieve and Krystilia will be able to assign boss monsters as your task. They will choose which boss you must kill.	科纳尔、杜拉德尔、尼芙和克里斯蒂莉亚将能够分配Boss怪物作为你的任务，他们将选择你必须击杀的Boss。	manual	slayer_reward	
 Whenever you get a Bloodveld task, it will be a bigger task.	每当你获得血魔任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Whenever you get an Aberrant Spectre task, it will be a bigger task.	每当你获得变异幽灵任务时，任务的目标数量将会增加。	manual	slayer_reward	
@@ -1188,7 +1188,7 @@ Whenever you get a Cave Horror task, it will be a bigger task.	每当你获得�
 Whenever you get a Dust Devil task, it will be a bigger task.	每当你获得尘魔任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Whenever you get a Skeletal Wyvern task, it will be a bigger task.	每当你获得骷髅飞龙任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Whenever you get a Gargoyle task, it will be a bigger task.	每当你获得石像鬼任务时，任务的目标数量将会增加。	manual	slayer_reward	
-Whenever you get a Nechryael task, it will be a bigger task.	每当你获得死灵恶魔任务时，任务的目标数量将会增加。	manual	slayer_reward	
+Whenever you get a Nechryael task, it will be a bigger task.	每当你获得死灵魔任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Whenever you get a Cave Kraken task, it will be a bigger task.	每当你获得洞穴克拉肯海怪任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Konar, Duradel, Nieve and Chaeldar will be able to assign you Lizardmen.	科纳尔、杜拉德尔、尼芙和查尔达将能够分配蜥蜴人作为你的任务。	manual	slayer_reward	
 Learn how to combine a KBD head with your Slayer helmet to colour it black.	学习如何将黑龙王头颅与你的杀戮者头盔组合，将其染成黑色。	manual	slayer_reward	
@@ -1203,7 +1203,7 @@ Whenever you get an Adamant Dragon task, it will be a bigger task.	每当你获�
 Whenever you get a Rune Dragon task, it will be a bigger task.	每当你获得符文龙任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Learn how to combine Vorkath's head with your Slayer helmet to colour it turquoise.	学习如何将沃卡斯的头颅与你的杀戮者头盔组合，将其染成青绿色。	manual	slayer_reward	
 Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit.	阻止你获得化石岛飞龙任务，且不佔用你的任務封鎖位。	manual	slayer_reward	
-Slaying Dusk and Dawn now counts for two kills towards your task rather than one.	击杀怪诞守卫者‧黄昏和怪诞守卫者‧黎明现在算作两次击杀而非一次。	manual	slayer_reward	
+Slaying Dusk and Dawn now counts for two kills towards your task rather than one.	击杀怪诞守卫者.黄昏和怪诞守卫者.黎明现在算作两次击杀而非一次。	manual	slayer_reward	
 Learn how to combine a Hydra head with your Slayer helmet to theme it like the Alchemical Hydra.	学习如何将九头蛇头颅与你的杀戮者头盔组合，使其呈现出炼金九头蛇风格的外观。	manual	slayer_reward	
 Whenever you get a Basilisk task, it will be a bigger task.	每当你获得石化蜥蜴任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Konar, Duradel and Nieve will be able to assign Basilisks as your task.	科纳尔、杜拉德尔和尼芙将能够分配石化蜥蜴作为你的任务。	manual	slayer_reward	
@@ -1211,7 +1211,7 @@ Learn how to combine Twisted Horns with your Slayer helmet to theme it like the 
 Whenever you get a Vampyre task, it will be a bigger task.	每当你获得吸血鬼任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.	科纳尔、杜拉德尔、尼芙和查尔达将能够分配吸血鬼作为你的任务。	manual	slayer_reward	
 Gain the ability to store your task, allowing you to take it at a later point in time.	获得存储任务的能力，允许你在以后的时间点接取。	manual	slayer_reward	
-Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task.	克里斯蒂莉亚将能够分配果冻怪、尘魔、死灵恶魔和深渊恶魔作为你的任务。	manual	slayer_reward	
+Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task.	克里斯蒂莉亚将能够分配果冻怪、尘魔、死灵魔和深渊恶魔作为你的任务。	manual	slayer_reward	
 Whenever you get a Revenants task, it will be a bigger task.	每当你获得亡灵任务时，任务的目标数量将会增加。	manual	slayer_reward	
 Konar, Duradel, Nieve and Chaeldar will be able to assign Warped Creatures as your task.	科纳尔、杜拉德尔、尼芙和查尔达将能够分配扭曲生物作为你的任务。	manual	slayer_reward	
 Karamja easy	卡拉姆詹岛 - 简单	manual	task	
@@ -1263,8 +1263,8 @@ Kourend medium	库兰德王国 - 中等	manual	task
 Kourend hard	库兰德王国 - 困难	manual	task	
 Kourend elite	库兰德王国 - 精英	manual	task	
 Discover an old coin.	发现一枚古币	manual	varrock_museum	
-Discover an ancient coin.	发现一枚古代金币	manual	varrock_museum	
-Discover an ancient symbol.	发现一个古代圣徽	manual	varrock_museum	
+Discover an ancient coin.	发现一枚古币	manual	varrock_museum	
+Discover an ancient symbol.	发现一个古老的圣徽	manual	varrock_museum	
 Discover an old symbol.	发现一个古老的圣徽	manual	varrock_museum	
 Discover pottery remains.	发现陶器残骸	manual	varrock_museum	
 Learn about dragons.	了解巨龙	manual	varrock_museum	
@@ -1321,7 +1321,7 @@ Build the mushroo display.	建造蘑菇兽展示柜	manual	varrock_museum
 Build the sabre toothed squirrel display.	建造剑齿松鼠展示柜	manual	varrock_museum	
 Build the mandibular display.	建造巨颚兽展示柜	manual	varrock_museum	
 Build the dragonfly display.	建造蜻蜓展示柜	manual	varrock_museum	
-Build the lava beast display.	建造熔岩怪展示柜	manual	varrock_museum	
+Build the lava beast display.	建造熔岩兽展示柜	manual	varrock_museum	
 Build part of the leviathan display.	建造利维坦展示的一部分	manual	varrock_museum	
 Build the mushtree display.	建造蘑菇树展示柜	manual	varrock_museum	
 Build the pitcher display.	建造猪笼草展示柜	manual	varrock_museum	
@@ -1339,7 +1339,7 @@ Timeline Displays	时间线展示柜	manual	varrock_museum
 Fossil Island Displays	化石岛展示柜	manual	varrock_museum	
 Camdozaal Relics	坎多扎尔遗物	manual	varrock_museum	
 Clean finds from the Digsite on the tables in the museum and place them in their cases.	清理考古挖掘场的发现物，放在博物馆的桌子上并将它们放入展示柜中	manual	varrock_museum	
-Examine the displays in the Natural History section of the museum and answer Orlando Smith's quiz.	检查博物馆自然历史部分的展示并回答奥兰多‧史密斯的测验	manual	varrock_museum	
+Examine the displays in the Natural History section of the museum and answer Orlando Smith's quiz.	检查博物馆自然历史部分的展示并回答奥兰多.史密斯的测验	manual	varrock_museum	
 Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.	通过完成任务和其他活动收集基利诺尔各地的信息，然后与历史学家米纳斯交谈	manual	varrock_museum	
 Discover fossils on fossil island to complete the displays on the bottom floor of the museum.	在化石岛发现化石以完成博物馆底层的展示	manual	varrock_museum	
 Crush Barronite deposits in the ruins of Camdozaal to find relics and hand them in to the curator.	在坎多扎尔废墟中粉碎巴隆石矿床以找到遗物并将其交给馆长	manual	varrock_museum	

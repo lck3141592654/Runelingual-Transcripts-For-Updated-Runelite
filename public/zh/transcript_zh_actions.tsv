@@ -699,7 +699,7 @@ Take pages	拿取书页	actions	npc	Branda the Fire Queen
 Whack	重击	actions	npc	Forebearer Janus
 Translate	翻译	actions	npc	Prince Itzla Arkan
 Fix	修复	actions	npc	Humphrey Dumphrey
-Tal Teklan	前往塔尔‧特克兰聚落	actions	npc	Achilka
+Tal Teklan	前往塔尔.特克兰聚落	actions	npc	Achilka
 Gloomthorn Trail	前往幽刺小径	actions	npc	Achilka
 Kastori	前往卡斯托里聚落	actions	npc	Achilka
 Directions	导航	actions	npc	Ru Merald
@@ -993,7 +993,7 @@ Balance	平衡	actions	object	Narrow wall
 Teeth-grip	用牙咬住滑行	actions	object	Zip line
 Drain	排水	actions	object	Barrel
 Churn	搅拌	actions	object	Dairy churn
-Zanaris	传送至失落之城	actions	object	Fairy ring
+Zanaris	传送至扎纳里斯城	actions	object	Fairy ring
 Configure	配置	actions	object	Fairy ring
 Last-destination (AIP)	传送至上次目的地 (AIP)	actions	object	Fairy ring
 Escape	逃跑	actions	object	Cave entrance
@@ -1272,7 +1272,7 @@ Last-destination (BJS)	传送至上次目的地 (BJS)	actions	object	Fairy ring
 Last-destination (BJR)	传送至上次目的地 (BJR)	actions	object	Fairy ring
 Last-destination (BJQ)	传送至上次目的地 (BJQ)	actions	object	Fairy ring
 Tree	开启传送选单	actions	object	Spiritual Fairy Tree
-Ring-Zanaris	戒指 - 传送至失落之城	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	戒指 - 传送至扎纳里斯城	actions	object	Spiritual Fairy Tree
 Ring-configure	戒指 - 配置	actions	object	Spiritual Fairy Tree
 Ring-last-destination (AIP)	戒指 - 传送至上次目的地 (AIP)	actions	object	Spiritual Fairy Tree
 Ring-last-destination (AIS)	戒指 - 传送至上次目的地 (AIS)	actions	object	Spiritual Fairy Tree
@@ -1553,7 +1553,7 @@ Burn`	燃烧	actions	object	Gunpowder
 Withdraw	取出	actions	object	Extract orifice
 Tend-to	照料	actions	object	Forester's Campfire
 Rest	休息	actions	object	Forester's Campfire
-Retrieve-egg	取回雉雞蛋	actions	object	Pheasant Nest
+Retrieve-egg	取回雉鸡蛋	actions	object	Pheasant Nest
 Revert	还原	actions	object	Fiery Ornate Pool of Rejuvenation
 Channel (Great Kourend)	传送至大库兰德王国	actions	object	Waystone
 Travel-End	旅行结束	actions	object	Portal

@@ -158,7 +158,7 @@ Add-ingreds	添加材料	inventoryActions	item	Mixed saturday
 Unpack	打开包装	inventoryActions	item	Proselyte harness m
 Shape-Earth	制作空白的大地符石	inventoryActions	item	Page 1
 Shape-Air	制作空白的风符石	inventoryActions	item	Page 1
-Shape-Fire	制作空白的火焰符石	inventoryActions	item	Page 2
+Shape-Fire	制作空白的火符石	inventoryActions	item	Page 2
 Shape-Water	制作空白的水符石	inventoryActions	item	Page 2
 Shape-Mind	制作空白的心灵符石	inventoryActions	item	Page 3
 Boost	提升 / 强化	inventoryActions	item	Attack cape
@@ -265,7 +265,7 @@ Untrim	拆除饰边	inventoryActions	item	Quest point cape (t)
 Karamja (Shilo)	传送至卡拉姆詹岛的希洛村	inventoryActions	item	Achievement diary cape (t)
 Western Provinces	传送至西部省份	inventoryActions	item	Achievement diary cape (t)
 Karamja (Jungle)	传送至卡拉姆詹岛的丛林	inventoryActions	item	Achievement diary cape (t)
-Twiggy O'Korn	传送至特威吉‧奥科恩	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	传送至特威吉.奥科恩	inventoryActions	item	Achievement diary cape (t)
 Karamja (Mor Ul Rek)	传送至卡拉姆詹岛的特扎尔地下城	inventoryActions	item	Achievement diary cape (t)
 Ardougne	传送至阿多尼城	inventoryActions	item	Achievement diary cape (t)
 Desert	传送至沙漠	inventoryActions	item	Achievement diary cape (t)
@@ -370,7 +370,7 @@ Control	控制 / 操纵	inventoryActions	item	Rotten cabbage
 Spectate	旁观	inventoryActions	item	Rotten cabbage
 Charge	充能	inventoryActions	item	Sanguinesti staff
 Scry	占卜	inventoryActions	item	Oculus orb
-Ver Sinhaza	传送至维尔‧辛哈扎城堡	inventoryActions	item	Drakan's medallion
+Ver Sinhaza	传送至维尔.辛哈扎城堡	inventoryActions	item	Drakan's medallion
 Darkmeyer	传送至达克迈尔	inventoryActions	item	Drakan's medallion
 Slepe	传送至斯莱普镇	inventoryActions	item	Drakan's medallion
 Tele	传送	inventoryActions	item	Rotten carrot
